@@ -7,15 +7,15 @@ If you find this tool useful and like to support its continuous
           development, then consider a donation.
 
 tpruvot@github:
-  BTC  : 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo
-  DCR  : DsUCcACGcyP8McNMRXQwbtpDxaVUYLDQDeU
+  BTC  : 
+  DCR  : 
 
 DJM34:
-  BTC donation address: 1NENYmxwZGHsKFmyjTc5WferTn5VTFb7Ze
+  BTC donation address: 
 
 cbuchner v1.2:
-  LTC donation address: LKS1WDKGED647msBQfLBHV3Ls8sveGncnm
-  BTC donation address: 16hJF5mceSojnTD3ZTUDqdRhDyPJzoRakM
+  LTC donation address: 
+  BTC donation address: 
 
 ***************************************************************
 
